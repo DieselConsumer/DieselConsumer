@@ -3,5 +3,5 @@
  - I'm a Android Enthusiast
  - I like modding phones
  - I'm fairly new to modding phones
- - I have a small project called SM-A346X-Patcher
+ - I have a small project called OneUI-Enhancer
   
